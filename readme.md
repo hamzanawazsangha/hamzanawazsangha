@@ -1,38 +1,62 @@
-# 👋 Hi, I'm Muhammad Hamza Nawaz
-### AI Engineer | Machine Learning Specialist | Python Developer
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Muhammad+Hamza+Nawaz;AI+Engineer+%7C+ML+Specialist+%7C+Python+Developer;Always+learning+new+things+🚀" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hamza-nawaz-a434501b3)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamhamzanawaz14@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.kaggle.com/muhammadhamzanawaz)
+<!-- Social badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-hamza-nawaz-a434501b3"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:iamhamzanawaz14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/muhammadhamzanawaz"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+</p>
 
-## 🛠 Technical Skills
-- **Languages**: Python, C++, SQL
-- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, OpenCV
-- **Deep Learning**: CNN, RNN, GANs, Transformers
-- **Data Processing**: Pandas, NumPy
-- **Deployment**: Flask, FastAPI, Docker
-- **Cloud**: AWS, GCP
-- **Version Control**: Git, GitHub
+---
 
-## 🔭 Current Projects
-1. **[Advanced Object Detection System](https://github.com/yourusername/object-detection)** - Real-time object detection using YOLOv7 and TensorRT optimizations
-2. **[Automated ML Pipeline](https://github.com/yourusername/automl-pipeline)** - End-to-end machine learning pipeline with hyperparameter optimization
-3. **[AI-Powered Chatbot](https://github.com/yourusername/ai-chatbot)** - Transformer-based chatbot with custom knowledge integration
+### 🛠 **Tech Toolbox**
+💻 **Languages**  
+<img src="https://img.icons8.com/color/48/000000/python.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40"/>
 
-## 🌱 Currently Learning
-- Edge AI and TinyML implementations
-- MLOps best practices
-- Quantum Machine Learning fundamentals
+🤖 **Machine Learning**  
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="40"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/opencv.png" width="40"/> <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" width="40"/>
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzanawazsangha&show_icons=true&theme=radical)
+📊 **Data Processing**  
+<img src="https://img.icons8.com/color/48/000000/pandas.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanawazsangha&layout=compact&theme=radical)
+⚡ **Deployment & Tools**  
+<img src="https://img.icons8.com/fluency/48/000000/flask.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/docker.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/> <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="40"/>
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=hamzanawazsangha&theme=onedark)
+---
 
-## 📫 How to reach me
-- Email: your.email@example.com
-- LinkedIn: [Muhammad Hamza Nawaz](https://linkedin.com/in/muhammad-hamza-nawaz-a434501b3)
-- Personal Website: [iamhamzanawaz.online](iamhamzanawaz.online)
+### 🚀 **What I’m Working On**
+- 🛡 **[Advanced Object Detection System](https://github.com/yourusername/object-detection)** – Real-time YOLOv7 + TensorRT magic  
+- 🔄 **[Automated ML Pipeline](https://github.com/yourusername/automl-pipeline)** – Full ML workflow with hyperparameter tuning  
+- 💬 **[AI-Powered Chatbot](https://github.com/yourusername/ai-chatbot)** – Transformer-based assistant with custom knowledge
+
+---
+
+### 📚 **Currently Learning**
+- 🖥 **Edge AI & TinyML** for low-power devices  
+- ⚙️ **MLOps** best practices  
+- ⚛ **Quantum Machine Learning** basics  
+
+---
+
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzanawazsangha&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanawazsangha&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### 🏆 **Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzanawazsangha&theme=onedark&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+---
+
+### 📬 **Let’s Connect**
+📧 **Email:** [iamhamzanawaz14@gmail.com](mailto:iamhamzanawaz14@gmail.com)  
+💼 **LinkedIn:** [Muhammad Hamza Nawaz](https://linkedin.com/in/muhammad-hamza-nawaz-a434501b3)  
+🌐 **Portfolio:** [iamhamzanawaz.online](http://iamhamzanawaz.online)
