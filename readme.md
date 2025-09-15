@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Muhammad+Hamza+Nawaz; AI+Engineer+%7C+ML+Specialist+%7C+Python+Developer;Always+learning+new+things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Muhammad+Hamza+Nawaz;AAI+Engineer+%7C+ML+Specialist+%7C+Python+Developer;Always+learning+new+things+🚀" />
 </p>
 
 <!-- Social badges -->
