@@ -63,9 +63,9 @@ Transformer-based conversational assistant with custom knowledge integration.
 
 <div align="center">
   
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzanawazsangha&show_icons=true&theme=radical&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanawazsangha&layout=compact&theme=radical&langs_count=6)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzanawazsangha&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanawazsangha&layout=compact&theme=radical&langs_count=6&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzanawazsangha&theme=radical)
 
