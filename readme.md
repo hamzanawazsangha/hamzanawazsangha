@@ -62,15 +62,13 @@ Transformer-based conversational assistant with custom knowledge integration.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzanawazsangha&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzanawazsangha&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanawazsangha&layout=compact&theme=radical&langs_count=6&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanawazsangha&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzanawazsangha&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hamzanawazsangha&theme=onedark&margin-w=10&margin-h=10&no-frame=true&row=2&column=4)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=hamzanawazsangha&theme=onedark)
 </div>
 
 ## 📬 Let's Connect
